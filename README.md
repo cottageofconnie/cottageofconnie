@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**cottageofconnie/cottageofconnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to my GitHub profile <3
+I'm Connie and I like to tinker and experiment with things around the web. 
+- 🔭 I’m currently working on Art & A Cover of Macarena
+- 🌱 I’m currently learning Finnish Language!
+- 👯 I’m looking to collaborate on nothing right now, my plate's full!
+- 🤔 I’m looking for help with coding and resources for learning databases
+- 💬 Ask me about Art, Cotton Dolls, & My Cats
+- 📫 How to reach me: Discord or Instagram!
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I own an almost complete DS Pokemon Game collection!
