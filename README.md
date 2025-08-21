@@ -8,4 +8,4 @@ I'm Connie and I like to tinker and experiment with things around the web.
 - 📫 How to reach me: Discord or Instagram!
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I own an almost complete DS Pokemon Game collection!
-- Today's note : I'm really bad at dailies aren't I?
+- Today's note : Starting work on getting the git structure for Cottagecraft in!
